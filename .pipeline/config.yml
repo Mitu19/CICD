@@ -22,7 +22,7 @@ stages:
     cfOrg: "fa3d55c3trial"
     cfSpace: "Test"
     cfAppName: "CICD"
-    cfCredentialsId: "deploy-to-cf"
+    cfCredentialsId: ""
     tmsUpload: false
 steps:
   artifactPrepareVersion:
